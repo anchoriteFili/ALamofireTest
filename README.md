@@ -1,6 +1,6 @@
 # ALamofireTest
 
-- [Alamofire(swift版afnetworking)](#alamofire)
+- [Alamofire(swift版afnetworking)](#Alamofire)
 
 https://github.com/anchoriteFili/Alamofire
 ```
