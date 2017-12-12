@@ -1,4 +1,7 @@
 # ALamofireTest
+
+- [Alamofire(swift版afnetworking)](#Alamofire)
+
 https://github.com/anchoriteFili/Alamofire
 ```
 target 'ALamofireTest' do
@@ -73,3 +76,4 @@ static func getJSONStringFromDictionary(dictionary:NSDictionary) -> String {
 }
 
 ```
+### Alamofire(网络申请)

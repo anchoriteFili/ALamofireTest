@@ -18,6 +18,7 @@
 		D6C7BB301FDF7F5F0040B983 /* HYHttpTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C7BB2F1FDF7F5F0040B983 /* HYHttpTool.swift */; };
 		D6C7BB321FDFA3600040B983 /* ExtenstionTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C7BB311FDFA3600040B983 /* ExtenstionTool.swift */; };
 		D6C7BB341FDFA4F00040B983 /* StringTool.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C7BB331FDFA4F00040B983 /* StringTool.swift */; };
+		D6C7BB381FDFAA1A0040B983 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D6C7BB371FDFAA1A0040B983 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		D6C7BB2F1FDF7F5F0040B983 /* HYHttpTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HYHttpTool.swift; sourceTree = "<group>"; };
 		D6C7BB311FDFA3600040B983 /* ExtenstionTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtenstionTool.swift; sourceTree = "<group>"; };
 		D6C7BB331FDFA4F00040B983 /* StringTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringTool.swift; sourceTree = "<group>"; };
+		D6C7BB371FDFAA1A0040B983 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		FA5B65EDD2C5027CE1EA51F6 /* Pods_ALamofireTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ALamofireTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -126,6 +128,7 @@
 				D6C7BB051FDF7DCC0040B983 /* Main.storyboard */,
 				D6C7BB081FDF7DCC0040B983 /* Assets.xcassets */,
 				D6C7BB0A1FDF7DCC0040B983 /* LaunchScreen.storyboard */,
+				D6C7BB371FDFAA1A0040B983 /* README.md */,
 				D6C7BB0D1FDF7DCC0040B983 /* Info.plist */,
 			);
 			path = ALamofireTest;
@@ -270,6 +273,7 @@
 			files = (
 				D6C7BB0C1FDF7DCC0040B983 /* LaunchScreen.storyboard in Resources */,
 				D6C7BB091FDF7DCC0040B983 /* Assets.xcassets in Resources */,
+				D6C7BB381FDFAA1A0040B983 /* README.md in Resources */,
 				D6C7BB071FDF7DCC0040B983 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
