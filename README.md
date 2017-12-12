@@ -1,6 +1,6 @@
 # ALamofireTest
 
-- [Alamofire](#alamofire)
+- [Alamofire(swift版afnetworking)](#Alamofire)
 
 https://github.com/anchoriteFili/Alamofire
 ```
@@ -34,7 +34,7 @@ class func post(url: String?, param: NSMutableDictionary, complete: @escaping (H
 }
 
 ```
-### Alamofire
+### Alamofire(swift版afnetworking)
 调用接口实例
 ```
 let urlString = "http://www.gonghuizhudi.com/jiekou.php"
