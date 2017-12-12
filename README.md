@@ -76,4 +76,4 @@ static func getJSONStringFromDictionary(dictionary:NSDictionary) -> String {
 }
 
 ```
-### Alamofire
+# Alamofire
