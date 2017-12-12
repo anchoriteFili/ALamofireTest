@@ -34,7 +34,7 @@ class func post(url: String?, param: NSMutableDictionary, complete: @escaping (H
 }
 
 ```
-## Alamofire
+### Alamofire
 调用接口实例
 ```
 let urlString = "http://www.gonghuizhudi.com/jiekou.php"
