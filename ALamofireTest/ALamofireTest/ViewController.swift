@@ -13,7 +13,15 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let urlString = "http://www.gonghuizhudi.com/jiekou.php"
+        HYHttpTool.post(url: urlString, param: [:]) { (response, result) in
+            let dic: NSDictionary = String.getDictionaryFromJSONString(jsonString: result.value!)
+            
+            print(dic.value(forKey: "headers") as Any)
+        }
     }
+    
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
